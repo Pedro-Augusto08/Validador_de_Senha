@@ -1,4 +1,2 @@
 Validador de Senhas Fortes
-Tem por seu objetivo ajudar, a criar uma senha qeu seja considerada forte para segurança do usuário, garantindo sua integridade e proteção de seus dados que seram cadastrados
-
-Senhas fortes devem conter no minímo uma letra maiúscula, um número 
+Uma senha que atende a todas as regras do programa não significa que seja totalmente segura, pois essas verificações são apenas medidas básicas de proteção. Mesmo contendo oito caracteres, números e letras maiúsculas, ela ainda pode ser fácil de descobrir. Por isso, é importante evitar senhas comuns e informações pessoais. O desenvolvedor tem a responsabilidade de criar regras que ajudem a proteger os dados dos usuários e orientá-los sobre boas práticas de segurança. Com essa atividade, foi possível compreender como a lógica de programação pode ser aplicada na validação de senhas e como essas verificações contribuem para a segurança, mesmo não sendo suficientes para garantir uma proteção completa.
