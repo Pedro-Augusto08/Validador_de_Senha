@@ -26,7 +26,6 @@ public class Validador_de_Senha {
             }
         }
 
-        // Regra de amanhã (RF05): comente este bloco na versão de hoje
         boolean temMaiuscula = false;
         for (int i = 0; i < senha.length(); i++) {
             if (Character.isUpperCase(senha.charAt(i))) {
@@ -46,7 +45,7 @@ public class Validador_de_Senha {
 
         do {
             System.out.print("Digite uma senha fictícia: ");
-            String senha = teclado.nextLine(); // lê a linha inteira, sem alterar nada
+            String senha = teclado.nextLine(); 
             resultado = avaliarSenha(senha);
             System.out.println(resultado);
         } while (!resultado.equals(SUCESSO));
