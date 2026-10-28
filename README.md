@@ -1,4 +1,15 @@
 Validador de Senhas Fortes
 
+Embora uma senha passe por todas as verificações do programa, isso não significa que ela seja totalmente segura.
 
-Uma senha que atende a todas as regras do programa não significa que seja totalmente segura, pois essas verificações são apenas medidas básicas de proteção. Mesmo contendo oito caracteres, números e letras maiúsculas, ela ainda pode ser fácil de descobrir. Por isso, é importante evitar senhas comuns e informações pessoais. O desenvolvedor tem a responsabilidade de criar regras que ajudem a proteger os dados dos usuários e orientá-los sobre boas práticas de segurança. Com essa atividade, foi possível compreender como a lógica de programação pode ser aplicada na validação de senhas e como essas verificações contribuem para a segurança, mesmo não sendo suficientes para garantir uma proteção completa.
+As regras utilizadas no exercício representam apenas critérios básicos de validação.
+
+Uma senha pode conter números, letras maiúsculas e oito caracteres e ainda ser fácil de adivinhar.
+
+Além disso, pessoas podem utilizar informações pessoais ou repetir senhas em diferentes sistemas.
+
+O desenvolvedor tem a responsabilidade de orientar os usuários sobre a criação de senhas mais seguras.
+
+Também deve utilizar mecanismos adequados de proteção quando desenvolver sistemas reais.
+
+Portanto, esse exercício é importante para aprender lógica de programação, mas não substitui medidas profissionais de segurança.
